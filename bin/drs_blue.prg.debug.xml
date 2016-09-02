@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="14" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="19" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="20" pc="268435516" symbol="onLayout"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="33" pc="268435565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="35" pc="268435582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="36" pc="268435599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="37" pc="268435630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="40" pc="268435722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="41" pc="268435796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="44" pc="268435820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="45" pc="268435820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="51" pc="268435837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="58" pc="268435854" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="59" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="60" pc="268435905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="62" pc="268435936" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="66" pc="268435972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="67" pc="268436008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="69" pc="268436062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="70" pc="268436098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="73" pc="268436152" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="74" pc="268436188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="76" pc="268436254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="79" pc="268436329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="80" pc="268436354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="81" pc="268436379" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="82" pc="268436386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="83" pc="268436396" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="84" pc="268436430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="85" pc="268436443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="86" pc="268436450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="88" pc="268436466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="89" pc="268436502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="97" pc="268436562" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="98" pc="268436579" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="100" pc="268436589" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="102" pc="268436641" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="103" pc="268436660" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="104" pc="268436667" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="105" pc="268436674" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="107" pc="268436681" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="109" pc="268436688" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="110" pc="268436707" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="112" pc="268436735" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="113" pc="268436746" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="115" pc="268436810" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="117" pc="268436849" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="119" pc="268436885" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="121" pc="268436945" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="122" pc="268436945" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="124" pc="268436962" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="126" pc="268436986" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="128" pc="268436999" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueView.mc" lineNum="129" pc="268437035" symbol="drawBatteryIndicator"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueApp.mc" lineNum="6" pc="268437107" symbol="initialize"/>
+<entry filename="C:\\Users\\Alex\\workspace\\drs_blue\\source\\drs_blueApp.mc" lineNum="19" pc="268437134" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268437174" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268437188" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268437285" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268437300" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268437352" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268437398" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="12" symbol="id_drs_blue"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="9" object="true" symbol="drs_blueApp"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8" object="true" symbol="drs_blueView"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="16" method="true" symbol="drawBatteryIndicator"/>
+<entry field="true" id="15" symbol="GRT"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436559" name="timeString" stackId="6" startPc="268435565"/>
+<entry endPc="268436559" name="dateHeight" stackId="13" startPc="268435565"/>
+<entry endPc="268436559" name="dateY" stackId="18" startPc="268435565"/>
+<entry endPc="268436559" name="timeY" stackId="16" startPc="268435565"/>
+<entry endPc="268436559" name="info" stackId="4" startPc="268435565"/>
+<entry endPc="268436559" name="clockTime" stackId="2" startPc="268435565"/>
+<entry endPc="268436559" name="activityInfo" stackId="8" startPc="268435565"/>
+<entry endPc="268436559" name="batteryIndicatorY" stackId="17" startPc="268435565"/>
+<entry endPc="268436559" name="timeHeight" stackId="12" startPc="268435565"/>
+<entry endPc="268436559" name="bgY" stackId="11" startPc="268435565"/>
+<entry endPc="268436559" name="totalHeight" stackId="15" startPc="268435565"/>
+<entry endPc="268436559" name="bgX" stackId="10" startPc="268435565"/>
+<entry endPc="268436559" name="view" stackId="7" startPc="268435565"/>
+<entry endPc="268436559" name="batteryIndicatorHeight" stackId="14" startPc="268435565"/>
+<entry endPc="268436559" name="dateString" stackId="5" startPc="268435565"/>
+<entry endPc="268436559" name="moment" stackId="3" startPc="268435565"/>
+<entry endPc="268436559" name="dayInfo" stackId="9" startPc="268435565"/>
+<entry endPc="268437095" name="blockHeight" stackId="9" startPc="268436562"/>
+<entry endPc="268437095" name="batteryIndicatorWidth" stackId="11" startPc="268436562"/>
+<entry endPc="268437095" name="activityInfo" stackId="13" startPc="268436562"/>
+<entry endPc="268437095" name="blockSpace" stackId="7" startPc="268436562"/>
+<entry endPc="268437095" name="batteryIndicatorX" stackId="12" startPc="268436562"/>
+<entry endPc="268437095" name="blockWidth" stackId="8" startPc="268436562"/>
+<entry endPc="268437095" name="stats" stackId="3" startPc="268436562"/>
+<entry endPc="268437095" name="remainingString" stackId="5" startPc="268436562"/>
+<entry endPc="268437095" name="percent" stackId="4" startPc="268436562"/>
+<entry endPc="268437095" name="batteryIndicatorStartX" stackId="6" startPc="268436562"/>
+<entry endPc="268437095" name="hr" stackId="15" startPc="268436562"/>
+<entry endPc="268437095" name="numBlocks" stackId="10" startPc="268436562"/>
+<entry endPc="268437095" name="HRH" stackId="14" startPc="268436562"/>
+<entry endPc="268437415" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268437174"/>
+<entry endPc="268437415" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268437174"/>
+<entry endPc="268437415" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268437174"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="drs_blueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="drs_blueView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="drs_blueView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="drs_blueView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawBatteryIndicator" parent="drs_blueView">
+<param id="dc"/>
+<param id="batteryIndicatorY"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="drs_blueView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="drs_blueView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="drs_blueView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="drs_blueApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="drs_blueApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="drs_blueApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="drs_blueApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
